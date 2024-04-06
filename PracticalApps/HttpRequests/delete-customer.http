@@ -1,0 +1,5 @@
+
+@base_address = https://localhost:5151/api/customers/
+
+### Make a Put request to the base address.
+DELETE  {{base_address}}ABCXY

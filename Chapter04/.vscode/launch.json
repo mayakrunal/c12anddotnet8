@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C#: TopLevelFunctions",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/TopLevelFunctions/TopLevelFunctions.csproj",
+            "launchConfigurationId": "TargetFramework=;TopLevelFunctions"
+        },
+        {
+            "name": "C#: WritingFunctions",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/WritingFunctions/WritingFunctions.csproj",
+            "launchConfigurationId": "TargetFramework=;WritingFunctions"
+        },
+        {
+            "name": "C#: Instrumenting",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/Instrumenting/Instrumenting.csproj",
+            "launchConfigurationId": "TargetFramework=;Instrumenting"
+        }
+    ]
+}

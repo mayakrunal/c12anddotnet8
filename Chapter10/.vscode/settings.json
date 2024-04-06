@@ -1,0 +1,11 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "NorthWind",
+            "database": "${workspaceFolder:Chapter10}/WorkingWithEFCore/Northwind.db"
+        }
+    ]
+}

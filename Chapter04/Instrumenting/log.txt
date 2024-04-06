@@ -1,0 +1,4 @@
+Debug says, I am watching
+Trace says, I am watching
+[/home/ken/Documents/Pocs/dotnet_interview/Chapter04/Instrumenting/Program.cs
+ <Main>$ on line 23. Expression: unitsInStock > 10]

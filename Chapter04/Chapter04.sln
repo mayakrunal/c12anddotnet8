@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopLevelFunctions", "TopLevelFunctions\TopLevelFunctions.csproj", "{5D4D5252-365B-4DD5-B103-B2AD007036CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WritingFunctions", "WritingFunctions\WritingFunctions.csproj", "{E2388A9C-F85C-42F5-9F14-3F0E474D81E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instrumenting", "Instrumenting\Instrumenting.csproj", "{D62315AF-C7EC-47AA-AACA-569A5CA20E58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLib", "CalculatorLib\CalculatorLib.csproj", "{94EA2CB4-4B8D-42BB-A709-AF8758990D3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLibUnitTests", "CalculatorLibUnitTests\CalculatorLibUnitTests.csproj", "{7A573193-4158-45AF-B4BC-B59DB7F3B7E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallStackExceptionHandlingLib", "CallStackExceptionHandlingLib\CallStackExceptionHandlingLib.csproj", "{A04BF593-52A2-4644-8562-A71D6DAF960C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallStackExceptionHandling", "CallStackExceptionHandling\CallStackExceptionHandling.csproj", "{A2A1BF79-F9F4-489B-8940-15F330749AD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D4D5252-365B-4DD5-B103-B2AD007036CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D4D5252-365B-4DD5-B103-B2AD007036CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D4D5252-365B-4DD5-B103-B2AD007036CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D4D5252-365B-4DD5-B103-B2AD007036CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2388A9C-F85C-42F5-9F14-3F0E474D81E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2388A9C-F85C-42F5-9F14-3F0E474D81E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2388A9C-F85C-42F5-9F14-3F0E474D81E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2388A9C-F85C-42F5-9F14-3F0E474D81E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D62315AF-C7EC-47AA-AACA-569A5CA20E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D62315AF-C7EC-47AA-AACA-569A5CA20E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D62315AF-C7EC-47AA-AACA-569A5CA20E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D62315AF-C7EC-47AA-AACA-569A5CA20E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94EA2CB4-4B8D-42BB-A709-AF8758990D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94EA2CB4-4B8D-42BB-A709-AF8758990D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94EA2CB4-4B8D-42BB-A709-AF8758990D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94EA2CB4-4B8D-42BB-A709-AF8758990D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A573193-4158-45AF-B4BC-B59DB7F3B7E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A573193-4158-45AF-B4BC-B59DB7F3B7E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A573193-4158-45AF-B4BC-B59DB7F3B7E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A573193-4158-45AF-B4BC-B59DB7F3B7E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A04BF593-52A2-4644-8562-A71D6DAF960C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A04BF593-52A2-4644-8562-A71D6DAF960C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A04BF593-52A2-4644-8562-A71D6DAF960C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A04BF593-52A2-4644-8562-A71D6DAF960C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2A1BF79-F9F4-489B-8940-15F330749AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A1BF79-F9F4-489B-8940-15F330749AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A1BF79-F9F4-489B-8940-15F330749AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A1BF79-F9F4-489B-8940-15F330749AD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

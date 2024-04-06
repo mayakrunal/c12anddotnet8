@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C#: WorkingWithEnvVars",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/WorkingWithEnvVars/WorkingWithEnvVars.csproj",
+            "launchConfigurationId": "TargetFramework=;WorkingWithEnvVars",
+        }
+    ]
+}
